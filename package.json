@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ahmed Soliman",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "apac": "^3.0.2"
+  }
 }
